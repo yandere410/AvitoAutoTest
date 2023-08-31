@@ -20,4 +20,4 @@ pip install -r requirements.txt
 для запуска теста pytest -s -v tests
 
 
-<img src="https://github.com/yandere410/README/blob/main/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67.png?raw=true">
+<img src="https://github.com/yandere410/README/blob/main/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8.jpg">
